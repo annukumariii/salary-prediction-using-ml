@@ -21,6 +21,8 @@ The dataset is sourced from Kaggle and contains:
  Features
 
 * Data visualization (graphs)
+  <img width="1489" height="500" alt="image" src="https://github.com/user-attachments/assets/54309fa5-457e-41fa-89f8-274b94df19f4" />
+
 * Model training
 * Salary prediction
 
