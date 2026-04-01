@@ -25,6 +25,8 @@ The dataset is sourced from Kaggle and contains:
 
 * Model training
 * Salary prediction
+  <img width="890" height="586" alt="image" src="https://github.com/user-attachments/assets/1040c1f7-d1b0-4fcf-ba30-f5500249b878" />
+
 
 
  Tech Stack
